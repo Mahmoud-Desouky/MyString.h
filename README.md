@@ -1,2 +1,2 @@
 # MyString.h
-A simplified implementation of string.h 
+For training and practice purposes, this is a simplified version of string.h implementation.
